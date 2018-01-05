@@ -1,7 +1,7 @@
 {
   "name": "ngx-image-preload-service",
   "version": "1.0.0",
-  "description": "Adaptive service, allows to get device and orinetations state. Respects SSR",
+  "description": "Service, allows you to preload images, depends on HDPI resolution, respects Angular-cli hashing and SSR",
   "main": "./bundles/ngx-image-preload-service.umd.js",
   "module": "./ngx-image-preload-service.es5.js",
   "es2015": "./ngx-image-preload-service.js",
