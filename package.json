@@ -78,8 +78,5 @@
     "tslint": "^4.4.2",
     "typescript": "~2.3.0",
     "zone.js": "^0.8.4"
-  },
-  "dependencies": {
-    "current-device": "^0.7.2"
   }
 }
